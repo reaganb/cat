@@ -46,6 +46,6 @@ cat.print(enum=True)                                        # cat -n file1.txt f
 
 cat.writeToDest()                                           # cat file1.txt file2.txt > out.txt     # write content of file(s) to another file using '>' redirect
 
-cat.writeToDest(mode='add',enum=True)                       # cat -n file1.txt file2.txt > out.txt  # append enumerated content of file(s) to another file using '>>' redirect
+cat.writeToDest(mode='add',enum=True)                       # cat -n file1.txt file2.txt >> out.txt  # append enumerated content of file(s) to another file using '>>' redirect
 
 
