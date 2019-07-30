@@ -21,7 +21,7 @@ The cat command will then go through each ﬁle, write its contents out, and the
 ```
 ## The cat Python program
 
-The code inside the python program shows the basic functionalites that you can also do with the **cat** command. It can read file(s) and write/append into another file using the output of the cat command.
+The code inside the python program shows the basic functionalites that you can also do with the **cat** command. It can read file(s) and  also write/append into another file using the output of the cat command.
 
 
 
